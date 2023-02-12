@@ -6,6 +6,5 @@ public class Main {
         System.out.println("direct changes from github");
         System.out.println("squash and merge");
         System.out.println("checking from master");
-
     }
 }
