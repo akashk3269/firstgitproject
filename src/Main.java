@@ -4,5 +4,6 @@ public class Main {
         System.out.println("new change");
         System.out.println("changes done in new or first branch");
         System.out.println("direct changes from github");
+        System.out.println("squash and merge");
     }
 }
